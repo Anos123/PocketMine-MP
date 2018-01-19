@@ -111,12 +111,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/pmmp/RakLib.git",
-                "reference": "5180b2c8a877adfba1d7577066c217770cb4b2f4"
+                "reference": "b06a5cdf64c50bbea0ad524d40e5e1924f3487de"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/pmmp/RakLib/zipball/5180b2c8a877adfba1d7577066c217770cb4b2f4",
-                "reference": "5180b2c8a877adfba1d7577066c217770cb4b2f4",
+                "url": "https://api.github.com/repos/pmmp/RakLib/zipball/b06a5cdf64c50bbea0ad524d40e5e1924f3487de",
+                "reference": "b06a5cdf64c50bbea0ad524d40e5e1924f3487de",
                 "shasum": ""
             },
             "require": {
@@ -141,7 +141,7 @@
                 "source": "https://github.com/pmmp/RakLib/tree/ipv6-connection-support",
                 "issues": "https://github.com/pmmp/RakLib/issues"
             },
-            "time": "2018-01-19T11:50:23+00:00"
+            "time": "2018-01-19T12:26:26+00:00"
         }
     ],
     "packages-dev": [],
